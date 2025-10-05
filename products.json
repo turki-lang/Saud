@@ -1,0 +1,20 @@
+[
+  {
+    "name": "هاتف ذكي",
+    "price": "1200",
+    "image": "https://via.placeholder.com/250x200.png?text=هاتف+ذكي",
+    "whatsapp": "966500000000"
+  },
+  {
+    "name": "سماعات بلوتوث",
+    "price": "250",
+    "image": "https://via.placeholder.com/250x200.png?text=سماعات+بلوتوث",
+    "whatsapp": "966500000001"
+  },
+  {
+    "name": "سوار ذكي",
+    "price": "180",
+    "image": "https://via.placeholder.com/250x200.png?text=سوار+ذكي",
+    "whatsapp": "966500000002"
+  }
+]
